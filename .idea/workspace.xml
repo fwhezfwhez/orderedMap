@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71b17f1a-b7f9-45d9-9ccf-4e0e54e55535" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../RoutineHelper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../errorX/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../errorX/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../errorX/example/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderdMap_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderedMap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/utils.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/utils_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTree" beforeDir="false" afterPath="$PROJECT_DIR$/../BTree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BeanFactory" beforeDir="false" afterPath="$PROJECT_DIR$/../BeanFactory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BigPlate" beforeDir="false" afterPath="$PROJECT_DIR$/../BigPlate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESAPI_Test/elastic-go" beforeDir="false" afterPath="$PROJECT_DIR$/../ESAPI_Test/elastic-go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ErrorManager/errorManager" beforeDir="false" afterPath="$PROJECT_DIR$/../ErrorManager/errorManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pay" beforeDir="false" afterPath="$PROJECT_DIR$/../Pay" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintControler" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintControler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queue" beforeDir="false" afterPath="$PROJECT_DIR$/../Queue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/BurntSushi/toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/fwhezfwhez/go-BinaryTree" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/fwhezfwhez/go-BinaryTree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/fwhezfwhez/go-queue" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/fwhezfwhez/go-queue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/fwhezfwhez/superChecker" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/fwhezfwhez/superChecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/fwhezfwhez/xorm-tool" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/fwhezfwhez/xorm-tool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/gin-gonic/gin" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/gin-gonic/gin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/golang/protobuf" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/golang/protobuf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/mozillazg/go-pinyin" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/mozillazg/go-pinyin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/nsqio/go-nsq" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/nsqio/go-nsq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/xormplus/xorm" beforeDir="false" afterPath="$PROJECT_DIR$/../github.com/xormplus/xorm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../google.golang.org/grpc" beforeDir="false" afterPath="$PROJECT_DIR$/../google.golang.org/grpc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jwt" beforeDir="false" afterPath="$PROJECT_DIR$/../jwt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qinglong_api" beforeDir="false" afterPath="$PROJECT_DIR$/../qinglong_api" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../superChecker" beforeDir="false" afterPath="$PROJECT_DIR$/../superChecker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_X" beforeDir="false" afterPath="$PROJECT_DIR$/../test_X" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_chanel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_chanel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_redis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_redis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_redis/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test_redis/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_sqlx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_sqlx/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_sqlx/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test_sqlx/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_toml/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_toml/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_toml/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test_toml/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_toml/test.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_toml/test_toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xormTool" beforeDir="false" afterPath="$PROJECT_DIR$/../xormTool" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="563413841">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="5" />
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="5" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="2722" />
+          <entry key="md" value="146" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="2722" />
+          <entry key="PLAIN_TEXT" value="146" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orderedMap.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#20#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="16" column="31" lean-forward="true" selection-end-line="40" />
+              <folding>
+                <element signature="e#14#53#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/go_1.11/src/testing/testing.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="764" selection-start-line="764" selection-end-line="764" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orderdMap_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+              <folding>
+                <element signature="e#20#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/go_1.11/src/runtime/panic.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="680" selection-start-line="680" selection-end-line="680" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="E:\go_1.11" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/orderedMap.go" />
+        <option value="$PROJECT_DIR$/orderedMap.go" />
+        <option value="$PROJECT_DIR$/orderdMap_test.go" />
+        <option value="$PROJECT_DIR$/example/main.go" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1024" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="orderedMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orderedMap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="orderedMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="orderedMap" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="orderedMap" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/" />
+      <package value="OrderedMap" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="orderedMap" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/example/main.go" />
+      <package value="OrderedMap" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOrderedMap_Delete in orderedMap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="orderedMap" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="orderedMap" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestOrderedMap_Delete$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOrderedMap_DoubleSet in orderedMap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="orderedMap" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="orderedMap" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestOrderedMap_DoubleSet$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOrderedMap_Get in orderedMap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="orderedMap" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="orderedMap" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestOrderedMap_Get$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOrderedMap_Set in orderedMap" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="orderedMap" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="orderedMap" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestOrderedMap_Set$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="orderedMap" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="OrderedMap" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.TestOrderedMap_Get in orderedMap" />
+      <item itemvalue="Go Test.TestOrderedMap_Delete in orderedMap" />
+      <item itemvalue="Go Test.TestOrderedMap_Set in orderedMap" />
+      <item itemvalue="Go Test.TestOrderedMap_DoubleSet in orderedMap" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestOrderedMap_DoubleSet in orderedMap" />
+        <item itemvalue="Go Test.TestOrderedMap_Set in orderedMap" />
+        <item itemvalue="Go Test.TestOrderedMap_Delete in orderedMap" />
+        <item itemvalue="Go Test.TestOrderedMap_Get in orderedMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestOrderedMap_Set_in_orderedMap - 2018.10.09 at 16h 31m 57s.xml">
+      <configuration name="TestOrderedMap_Set in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestOrderedMap_DoubleSet_in_orderedMap - 2018.10.09 at 16h 33m 13s.xml">
+      <configuration name="TestOrderedMap_DoubleSet in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestOrderedMap_DoubleSet_in_orderedMap - 2018.10.09 at 16h 34m 28s.xml">
+      <configuration name="TestOrderedMap_DoubleSet in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestOrderedMap_DoubleSet_in_orderedMap - 2018.10.09 at 16h 34m 39s.xml">
+      <configuration name="TestOrderedMap_DoubleSet in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestOrderedMap_DoubleSet_in_orderedMap - 2018.10.09 at 16h 35m 11s.xml">
+      <configuration name="TestOrderedMap_DoubleSet in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestOrderedMap_DoubleSet_in_orderedMap - 2018.10.09 at 16h 36m 06s.xml">
+      <configuration name="TestOrderedMap_DoubleSet in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestOrderedMap_Set_in_orderedMap - 2018.10.09 at 16h 36m 30s.xml">
+      <configuration name="TestOrderedMap_Set in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestOrderedMap_Set_in_orderedMap - 2018.10.09 at 16h 36m 47s.xml">
+      <configuration name="TestOrderedMap_Set in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestOrderedMap_DoubleSet_in_orderedMap - 2018.10.09 at 16h 37m 38s.xml">
+      <configuration name="TestOrderedMap_DoubleSet in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestOrderedMap_DoubleSet_in_orderedMap - 2018.10.09 at 16h 38m 01s.xml">
+      <configuration name="TestOrderedMap_DoubleSet in orderedMap" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12846482" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/go_1.11/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="680" selection-start-line="680" selection-end-line="680" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/go_1.11/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="764" selection-start-line="764" selection-end-line="764" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orderedMap.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#20#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orderdMap_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#20#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="31" lean-forward="true" selection-end-line="40" />
+          <folding>
+            <element signature="e#14#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
