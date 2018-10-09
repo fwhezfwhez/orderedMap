@@ -12,7 +12,7 @@ package main
 
 import (
 	"fmt"
-    omp "github.com/fwhezfwhez/orderdMap"
+    omp "github.com/fwhezfwhez/orderedMap"
 )
 
 func main() {
