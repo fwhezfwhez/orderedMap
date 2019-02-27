@@ -2,6 +2,7 @@
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/fwhezfwhez/orderedMap)
 
 An orderd map in go realization.
+**testing,no use!**
 
 ## start
 `go get github.com/fwhezfwhez/orderdMap`
